@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "TaskFlow",
+    "tagline": "Planifiez, suivez et expédiez votre travail"
+  },
+  "nav": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "reports": "Rapports",
+    "settings": "Paramètres",
+    "language": "Langue",
+    "logout": "Déconnexion"
+  },
+  "hero": {
+    "welcome": "Bon retour, {name} !",
+    "subtitle": "Vous avez {count} tâches à échéance cette semaine.",
+    "primary": "Nouvelle tâche",
+    "secondary": "Voir le calendrier"
+  },
+  "stats": {
+    "open": "Tâches ouvertes",
+    "done": "Terminé",
+    "overdue": "En retard",
+    "team": "Membres de l’équipe"
+  },
+  "tasks": {
+    "title": "Tâches du jour",
+    "filter_all": "Toutes",
+    "filter_mine": "Qui me sont attribuées",
+    "filter_urgent": "Urgent",
+    "item_1": "Examiner la page des tarifs",
+    "item_2": "Envoyer la facture au client",
+    "item_3": "Préparer le rapport d’état hebdomadaire",
+    "mark_done": "Marquer comme terminée",
+    "empty": "Il ne reste plus rien à faire aujourd’hui. Beau travail !"
+  },
+  "form": {
+    "title": "Ajout rapide",
+    "task_label": "Nom de la tâche",
+    "task_placeholder": "Que faut-il faire ?",
+    "due_label": "Date d’échéance",
+    "priority_label": "Priorité",
+    "priority_low": "Faible",
+    "priority_high": "Élevée",
+    "save": "Enregistrer",
+    "cancel": "Annuler"
+  },
+  "banner": {
+    "text": "Votre essai gratuit prend fin dans 3 jours.",
+    "action": "Mettre à niveau maintenant"
+  },
+  "footer": {
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d’utilisation",
+    "help": "Centre d’aide",
+    "copyright": "© 2026 TaskFlow. Tous droits réservés."
+  },
+  "messages": {
+    "missing_language": "Cette langue n’est pas encore disponible.",
+    "saved": "Tâche enregistrée"
+  }
+}
