@@ -4,17 +4,17 @@
     "tagline": "Planifica, supervisa y entrega tu trabajo"
   },
   "nav": {
-    "home": "Página de inicio",
+    "home": "Principal",
     "projects": "Proyectos",
     "reports": "reportes",
     "language": "Idioma",
     "logout": "Cerrar sesión"
   },
   "footer": {
-    "privacy": "Política de privacidad",
-    "terms": "Términos de servicio",
+    "privacy": "Privacidad datos",
+    "terms": "Términos de uso",
     "help": "Centro de ayuda",
-    "copyright": "© 2026 TaskFlow. Todos los derechos reservados."
+    "copyright": "© 2026 TaskFlow. Der. reservados."
   },
   "messages": {
     "missing_language": "Este idioma todavía no está disponible.",

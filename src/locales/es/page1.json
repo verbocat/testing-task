@@ -1,13 +1,13 @@
 {
   "banner": {
     "text": "Tu prueba gratuita termina en 3 días.",
-    "action": "Actualizar ahora"
+    "action": "Mejorar ya"
   },
   "hero": {
     "welcome": "¡Te damos la bienvenida de nuevo, {name}!",
     "subtitle": "Tienes {count} tareas pendientes para esta semana.",
     "primary": "Nueva tarea",
-    "secondary": "Ver el calendario"
+    "secondary": "Ver calen."
   },
   "stats": {
     "open": "Tareas abiertas",
@@ -23,7 +23,7 @@
     "item_1": "Revisa la página de precios",
     "item_2": "Envía la factura al cliente",
     "item_3": "Prepara el informe semanal de estado",
-    "mark_done": "Marcar como terminado",
+    "mark_done": "Terminado",
     "empty": "No queda nada para hoy. ¡Buen trabajo!"
   },
   "form": {
