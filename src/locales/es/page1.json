@@ -1,0 +1,40 @@
+{
+  "banner": {
+    "text": "Tu prueba gratuita termina en 3 días.",
+    "action": "Actualizar ahora"
+  },
+  "hero": {
+    "welcome": "¡Te damos la bienvenida de nuevo, {name}!",
+    "subtitle": "Tienes {count} tareas pendientes para esta semana.",
+    "primary": "Nueva tarea",
+    "secondary": "Ver el calendario"
+  },
+  "stats": {
+    "open": "Tareas abiertas",
+    "done": "Completado",
+    "overdue": "atrasado",
+    "team": "Miembros del equipo"
+  },
+  "tasks": {
+    "title": "Tareas de hoy",
+    "filter_all": "Todo",
+    "filter_mine": "Asignadas a mí",
+    "filter_urgent": "Urgente",
+    "item_1": "Revisa la página de precios",
+    "item_2": "Envía la factura al cliente",
+    "item_3": "Prepara el informe semanal de estado",
+    "mark_done": "Marcar como terminado",
+    "empty": "No queda nada para hoy. ¡Buen trabajo!"
+  },
+  "form": {
+    "title": "Añadir rápidamente",
+    "task_label": "Nombre de la tarea",
+    "task_placeholder": "¿Qué hay que hacer?",
+    "due_label": "Fecha de entrega",
+    "priority_label": "Prioridad",
+    "priority_low": "Bajo",
+    "priority_high": "Alto",
+    "save": "Guardar",
+    "cancel": "Cancelar"
+  }
+}

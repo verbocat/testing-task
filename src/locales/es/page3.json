@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "reportes",
+    "subtitle": "Consulta el rendimiento de tu equipo a lo largo del tiempo.",
+    "export": "Exportar CSV"
+  },
+  "period": {
+    "label": "Período",
+    "week": "Esta semana",
+    "month": "Este mes",
+    "quarter": "Este trimestre"
+  },
+  "summary": {
+    "created": "Tareas creadas",
+    "completed": "Tareas completadas",
+    "on_time": "Completadas a tiempo",
+    "avg_time": "Tiempo medio de finalización",
+    "days": "{count} días"
+  },
+  "table": {
+    "title": "Desglose semanal",
+    "week": "Semana {number}",
+    "created": "Created",
+    "completed": "Completado",
+    "overdue": "atrasado"
+  },
+  "messages": {
+    "exported": "Informe exportado"
+  }
+}
