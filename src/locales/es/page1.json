@@ -4,7 +4,7 @@
     "action": "Mejorar ya"
   },
   "hero": {
-    "welcome": "¡Te damos la bienvenida de nuevo, {name}!",
+    "welcome": "¡Te damos la, {name}!",
     "subtitle": "Tienes {count} tareas pendientes para esta semana.",
     "primary": "Nueva tarea",
     "secondary": "Ver calen."
