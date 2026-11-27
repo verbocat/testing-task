@@ -11,10 +11,10 @@
     "logout": "Cerrar sesión"
   },
   "footer": {
-    "privacy": "Política de privacidad",
-    "terms": "Términos del servicio",
+    "privacy": "Política de priv.",
+    "terms": "Términos y uso",
     "help": "Centro de ayuda",
-    "copyright": "© 2026 TaskFlow. Todos los derechos reservados."
+    "copyright": "© 2026 TaskFlow. Der. reservados."
   },
   "messages": {
     "missing_language": "Este idioma aún no está disponible.",

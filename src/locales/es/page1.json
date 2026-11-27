@@ -23,7 +23,7 @@
     "item_1": "Revisar la página de precios",
     "item_2": "Enviar la factura al cliente",
     "item_3": "Preparar el informe semanal de estado",
-    "mark_done": "Marcar como completada",
+    "mark_done": "Completar",
     "empty": "No queda nada para hoy. ¡Buen trabajo!"
   },
   "form": {
