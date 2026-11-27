@@ -1,0 +1,23 @@
+{
+  "app": {
+    "name": "TaskFlow",
+    "tagline": "Plan, track and ship your work"
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "reports": "Reports",
+    "language": "Language",
+    "logout": "Log out"
+  },
+  "footer": {
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "help": "Help center",
+    "copyright": "© 2026 TaskFlow. All rights reserved."
+  },
+  "messages": {
+    "missing_language": "This language is not available yet.",
+    "saved": "Task saved"
+  }
+}

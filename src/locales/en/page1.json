@@ -1,15 +1,7 @@
 {
-  "app": {
-    "name": "TaskFlow",
-    "tagline": "Plan, track and ship your work"
-  },
-  "nav": {
-    "home": "Home",
-    "projects": "Projects",
-    "reports": "Reports",
-    "settings": "Settings",
-    "language": "Language",
-    "logout": "Log out"
+  "banner": {
+    "text": "Your free trial ends in 3 days.",
+    "action": "Upgrade now"
   },
   "hero": {
     "welcome": "Welcome back, {name}!",
@@ -44,19 +36,5 @@
     "priority_high": "High",
     "save": "Save",
     "cancel": "Cancel"
-  },
-  "banner": {
-    "text": "Your free trial ends in 3 days.",
-    "action": "Upgrade now"
-  },
-  "footer": {
-    "privacy": "Privacy policy",
-    "terms": "Terms of service",
-    "help": "Help center",
-    "copyright": "© 2026 TaskFlow. All rights reserved."
-  },
-  "messages": {
-    "missing_language": "This language is not available yet.",
-    "saved": "Task saved"
   }
 }

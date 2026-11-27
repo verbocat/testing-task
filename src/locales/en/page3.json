@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "Reports",
+    "subtitle": "See how your team performed over time.",
+    "export": "Export CSV"
+  },
+  "period": {
+    "label": "Period",
+    "week": "This week",
+    "month": "This month",
+    "quarter": "This quarter"
+  },
+  "summary": {
+    "created": "Tasks created",
+    "completed": "Tasks completed",
+    "on_time": "Completed on time",
+    "avg_time": "Average completion time",
+    "days": "{count} days"
+  },
+  "table": {
+    "title": "Weekly breakdown",
+    "week": "Week {number}",
+    "created": "Created",
+    "completed": "Completed",
+    "overdue": "Overdue"
+  },
+  "messages": {
+    "exported": "Report exported"
+  }
+}

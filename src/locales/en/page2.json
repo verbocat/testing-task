@@ -1,0 +1,25 @@
+{
+  "header": {
+    "title": "Projects",
+    "subtitle": "{count} active projects across your team.",
+    "new_project": "New project"
+  },
+  "columns": {
+    "name": "Project",
+    "owner": "Owner",
+    "status": "Status",
+    "progress": "Progress"
+  },
+  "status": {
+    "on_track": "On track",
+    "at_risk": "At risk",
+    "done": "Done"
+  },
+  "items": {
+    "website": "Website redesign",
+    "mobile": "Mobile app launch",
+    "billing": "Billing migration",
+    "onboarding": "Customer onboarding flow"
+  },
+  "empty": "No projects yet. Create your first one!"
+}

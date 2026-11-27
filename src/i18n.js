@@ -1,11 +1,15 @@
-// Every src/locales/<code>.json present at build time is a language of the app: en.json is the source;
-// hi.json (or any other) is picked up when it exists, and missing keys fall back to English.
-const files = import.meta.glob("./locales/*.json", { eager: true, import: "default" });
+// Every folder src/locales/<code>/ present at build time is a language of the app. Each folder holds one JSON
+// file per namespace: common.json (header, footer, shared messages) and page1.json, page2.json, page3.json ...
+// en/ is the source; any other folder (hi/, fr/ ...) is picked up when it exists, and missing files or keys
+// fall back to English. Keys are "<file>.<path>", e.g. t("page1.hero.welcome") or t("common.nav.home").
+const files = import.meta.glob("./locales/*/*.json", { eager: true, import: "default" });
 
 export const SOURCE = "en";
-export const translations = Object.fromEntries(
-  Object.entries(files).map(([path, data]) => [path.match(/([\w-]+)\.json$/)[1], data]),
-);
+export const translations = {};
+for (const [path, data] of Object.entries(files)) {
+  const [, lang, ns] = path.match(/\/locales\/([\w-]+)\/([\w-]+)\.json$/);
+  (translations[lang] ||= {})[ns] = data;
+}
 export const languages = Object.keys(translations).sort((a, b) =>
   a === SOURCE ? -1 : b === SOURCE ? 1 : a.localeCompare(b),
 );
