@@ -1,0 +1,23 @@
+{
+  "app": {
+    "name": "TaskFlow",
+    "tagline": "Planifica, realiza el seguimiento y envía tu trabajo"
+  },
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "reports": "Informes",
+    "language": "Idioma",
+    "logout": "Cerrar sesión"
+  },
+  "footer": {
+    "privacy": "Política de privacidad",
+    "terms": "Términos del servicio",
+    "help": "Centro de ayuda",
+    "copyright": "© 2026 TaskFlow. Todos los derechos reservados."
+  },
+  "messages": {
+    "missing_language": "Este idioma aún no está disponible.",
+    "saved": "Tarea guardada"
+  }
+}
